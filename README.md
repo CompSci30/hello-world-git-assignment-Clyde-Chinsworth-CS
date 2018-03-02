@@ -7,5 +7,5 @@ Complete the following steps:
 2. Open the file poem.txt using nano.
 3. Someone has been tampering with Shel Silverstein's poem. Find the original poem (ask Google) and fix the "errors" in your working copy. Commit your corrected version with an appropriate log message.
 4. Since you are quite poetic yourself you have decided to make your own improvements to the poem. Create a branch called another-animal.
-5. Change to your new branch and replace the original animal that the poem mentions to your choise of animal. Commit your changes.
+5. Change to your new branch and replace the original animal that the poem mentions to your choice of animal. Commit your changes.
 6. Change the line *by Shel Silverstein* to *by Shel Silverstein with improvements by YOUR NAME* (replace YOUR NAME with..., well, your actual name).
