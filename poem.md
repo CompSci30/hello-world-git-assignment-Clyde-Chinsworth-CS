@@ -1,16 +1,16 @@
 # Its Dark in Here
 *by Shel Silverstein*
 
-I am writing these poems
-From inside a lion,
-And it's rather dark in here.
+> I am writing these poems
+> From inside a lion,
+> And it's rather dark in here.
+>
+> So please excuse the handwriting
+> Which may not be too clear.
+> 
+> But this afternoon by the lion's cage
+> I'm afraid I got too near.
 
-So please excuse the handwriting
-Which may not be too clear.
-
-But this afternoon by the lion's cage
-I'm afraid I got too near.
-
-And I'm writing these lines
-From inside a lion,
-And it's rather dark in here.
+> And I'm writing these lines
+> From inside a lion,
+> And it's rather dark in here.
