@@ -1,5 +1,5 @@
 # Its Dark in Here
-*by Shel Silverstein *
+*by Shel Silverstein*
 
 I am writing these poems
 From inside a lion,
