@@ -1,0 +1,43 @@
+HISTORY FOR "HELLO WORLD" ASSIGNMENT
+
+  102  ls
+  103  mkdir Comsci-30
+  104  cp Comsci-30 ComSci-30  105  cp -r Comsci-30 ComSci-30
+  106  ls
+  107  rm -r Comsci-30
+  108  ls
+  109  cd ComSci-30
+  110  ls
+  111  git clone git@github.com:CompSci30/hello-world-git-assignment-Clyde-Chinsworth-CS.git
+  112  clear
+  113  git clone https://github.com/CompSci30/hello-world-git-assignment-Clyde-Chinsworth-CS.git
+  114  git clone git@github.com:CompSci30/hello-world-git-assignment-Clyde-Chinsworth-CS.git
+  115  git clone https://github.com/CompSci30/hello-world-git-assignment-Clyde-Chinsworth-CS.git
+  116  ls
+  117  cd hello-world-git-assignment-Clyde-Chinsworth-CS/
+  118  ls
+  119  clear
+  120  ls
+  121  nano poem.txt
+  122  git add poem.txt
+  123  git commit -m "fixed poem"
+  124  git branch myPoem
+  125  git branch
+  126  git checkout myPoem
+  127  nano poem.txt
+  128  git add poem.txt
+  129  git commit -m "changed lion to chimp"
+  130  git log
+  131  nano poem.txt
+  132  clear
+  133  git add poem.txt
+  134  git commit -m "changed credits"
+  135  git tag
+  136  git tag -a version2 -m "improved version" 
+  137  git tag
+  138  clear
+  139  git checkout master
+  140  git merge myPoem
+  141  terminal history
+  142  history
+  143  history > history.txt
