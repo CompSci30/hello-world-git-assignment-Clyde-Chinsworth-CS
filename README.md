@@ -4,17 +4,17 @@ In order to complete the assignment, you must perform a series of tasks centered
 Complete the following steps:
 
 1. After accepting the assignment (using the emailed link), clone the repository to your Raspberry Pi.
-2. Open the file poem.txt using nano.
+2. Open the file `poem.txt` using the nano text editor.
 3. Someone has been tampering with Shel Silverstein's poem. Find the original poem (ask Google) and fix the "errors" in your working copy. Commit your corrected version with an appropriate log message.
-4. Since you are quite poetic yourself you have decided to make your own improvements to the poem. Create a branch called myPoem.
+4. Since you are quite poetic yourself you have decided to make your own improvements to the poem. Create a branch called `myPoem`.
 5. Switch to your new branch and replace the original animal that the poem mentions to your choice of animal. Commit your changes.
 6. Change the line *by Shel Silverstein* to *by Shel Silverstein with improvements by YOUR NAME* (replace YOUR NAME with..., well, your actual name). Commit your changes.
-7. Tag the current version with as version2 annotated as *Improved version* (see https://git-scm.com/book/en/v2/Git-Basics-Tagging for info on tagging).
+7. Tag the current version as `version2` annotated as `Improved version` (see https://git-scm.com/book/en/v2/Git-Basics-Tagging for info on tagging).
 8. Switch back to the master branch.
-9. Merge the myPoem branch with the master.
+9. Merge the `myPoem` branch with the `master`.
 10. Revert to the original version of the poem and commit.
-11. Run the following command in the terminal history > history.txt
-12. Add the history.txt gile to the repository and commit.
+11. Run the following command in the `terminal history > history.txt`.
+12. Add the `history.txt` file to the repository and commit.
 13. Push your local repo to GitHub.
 14. Ask your teacher to mark your assignment.
  
