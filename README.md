@@ -1,4 +1,4 @@
-# Hello-World-Assignment
+# Hello-World-git-Assignment
 In order to complete the assignment, you must perform a series of tasks centered around getting used to working with git and Github. Specifically, we are going to practice forking and cloning repositories, branching and merging. This assignment must be completed on your Raspberry Pi using the nano text editor. 
 
 Complete the following steps:
