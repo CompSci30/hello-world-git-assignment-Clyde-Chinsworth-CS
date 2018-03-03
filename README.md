@@ -13,5 +13,8 @@ Complete the following steps:
 8. Switch back to the master branch.
 9. Merge the myPoem branch with the master.
 10. Revert to the original version of the poem and commit.
-11. Push your local repo to GitHub.
-12. Ask your teacher to mark your assignment.
+11. Run the following command in the terminal history > history.txt
+12. Add the history.txt gile to the repository and commit.
+13. Push your local repo to GitHub.
+14. Ask your teacher to mark your assignment.
+ 
