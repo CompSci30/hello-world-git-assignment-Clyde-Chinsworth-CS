@@ -1,8 +1,108 @@
-HISTORY FOR "HELLO WORLD" ASSIGNMENT
-
+    1  xdpyinfo ~ awk '/dimensions/{print $2}'
+    2  xdpyinfo | awk '/dimensions/{print $2}'
+    3  man cd
+    4  man cp
+    5  ls
+    6  man man
+    7  cd pictures
+    8  cd Pictures
+    9  ls
+   10  clear
+   11  cp He
+   12  ls
+   13  cp He /pictures
+   14  cp He* /pictures
+   15  clear
+   16  man top
+   17  top
+   18  clear
+   19  ls
+   20  pwd
+   21  cd Documents
+   22  ls
+   23  touch jimmy.txt
+   24  ld
+   25  pwd
+   26  ls
+   27  rm jimmy.txt
+   28  ..
+   29  cd
+   30  clear
+   31  sudo apt-get install fortunes
+   32  man fortunes
+   33  man fortune
+   34  forunte
+   35  fortune
+   36  clear
+   37  fortune
+   38  fortunes
+   39  fortune
+   40  cd -f
+   41  fortune -f
+   42  cd /usr/share/games/fortunes
+   43  clear
+   44  cp linux ~
+   45  cd
+   46  ls
+   47  mv linux god
+   48  ls
+   49  mv god linux.txt
+   50  cat linux.txt 
+   51  less linux.txt
+   52  head linux.txt
+   53  ls -l linux.txt 
+   54  ls -lh
+   55  ping steamcommunity.com
+   56  ping google.jp
+   57  ping google.au
+   58  ping google.aus
+   59  ping google.us
+   60  ping google.jp
+   61  ping nomoremarinara.com
+   62  shutdown
+   63  ls
+   64  pwd
+   65  mkdir manhattan-zoo
+   66  cd manhattan-zoo
+   67  ls
+   68  clear
+   69  pwd
+   70  git init
+   71  touch meal-log.txt
+   72  git add meal-log.txt
+   73  git status
+   74  nano meal-log.txt
+   75  git status
+   76  git commit -m "Added Sea Lions, Added Lemurs"
+   77  git config --global user.email "a.yang2@share.epsb.ca"
+   78  git status
+   79  git add meal-log.txt
+   80  git commit -m "added sea lions, added lemurs"
+   81  git config --global user.email "a.yang2@share.epsb.ca"
+   82  git config --glober user.name "Alex Yang"
+   83  git config --global user.name "Alex Yang"
+   84  git status
+   85  git commit -m "added sea lions, added lemurs"
+   86  clear
+   87  nano meal-log.txt
+   88  git add meal-log.txt
+   89  git commit -m "added chinchillas"
+   90  nano meal-log.txt
+   91  git add meal-log.txt
+   92  git commit -m "added frogs"
+   93  nano meal-log.txt
+   94  git add meal-log.txt
+   95  git commit -m "added gorillas"
+   96  log
+   97  git log
+   98  cat git log > commit-history.txt
+   99  git log > commit-history.txt
+  100  ls
+  101  cat commit-history.txt
   102  ls
   103  mkdir Comsci-30
-  104  cp Comsci-30 ComSci-30  105  cp -r Comsci-30 ComSci-30
+  104  cp Comsci-30 ComSci-30
+  105  cp -r Comsci-30 ComSci-30
   106  ls
   107  rm -r Comsci-30
   108  ls
@@ -41,3 +141,25 @@ HISTORY FOR "HELLO WORLD" ASSIGNMENT
   141  terminal history
   142  history
   143  history > history.txt
+  144  nano history.txt
+  145  fg
+  146  clear
+  147  git status
+  148  git add history.txt
+  149  git commit -m "added terminal history"
+  150  ls
+  151  git status
+  152  git push
+  153  ls
+  154  git add poem.txt
+  155  git log
+  156  git reset 5b06721 poem.txt
+  157  git add poem.txt
+  158  git status
+  159  cat poem.txt
+  160  ls
+  161  git reset HEAD 5b06721 poem.txt
+  162  git reset 5b06721 poem.txt
+  163  git add poem.txt
+  164  git commit -m "reverted poem to original"
+  165  history > history.txt
